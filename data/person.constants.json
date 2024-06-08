@@ -1,0 +1,11 @@
+{
+    "EDUCATION": {
+        "INITIAL": "Educación inicial",
+        "FIRST": "Primer ciclo",
+        "SECOND": "Segundo ciclo",
+        "THIRD": "Tercer ciclo",
+        "HIGHSCHOOL": "Bachillerato",
+        "COLLEGE": "Educación superior",
+        "NONE": "Ninguna"
+    }
+}

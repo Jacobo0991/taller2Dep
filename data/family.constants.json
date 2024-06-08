@@ -1,0 +1,16 @@
+{
+    "HOUSE_TYPE": {
+        "BAHAREQUE": "Bahareque",
+        "ADOBE": "Adobe",
+        "LAMINA": "Lamina",
+        "LADRILLOS": "Ladrillos",
+        "CEMENTO": "Bloques de cemento",
+        "MADERA": "Madera"
+    },
+    "RISK": {
+        "LOW": "Bajo",
+        "MID": "Medio",
+        "HIGH": "Alto",
+        "INHABITATED": "Vivienda deshabitada"
+    }
+}
